@@ -1,5 +1,7 @@
 # CustomParser
 
+> ⚠️ Early development project. APIs may change before the first stable release.
+
 🚀 Create custom parsers without writing tokenizers, path resolvers, and parsing logic from scratch.
 
 CustomParser turns hundreds of lines of parsing code into a simple, extensible API.
